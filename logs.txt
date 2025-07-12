@@ -1,0 +1,5 @@
+[ALERT] Multiple failed login attempts detected!
+[ALERT] Multiple failed login attempts detected!
+[INFO] Detection stopped.
+[INFO] Logs exported to logs.txt
+
